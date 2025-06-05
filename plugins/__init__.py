@@ -1,3 +1,3 @@
-from .llm import DummyLLM, validate_response
+from .llm import DummyLLM, OpenRouterLLM, validate_response
 
-__all__ = ["DummyLLM", "validate_response"]
+__all__ = ["DummyLLM", "OpenRouterLLM", "validate_response"]
