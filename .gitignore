@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Node/React artifacts
+node_modules/
+build/
+dist/
+
+# OS files
+.DS_Store
+
+# Local environment
+.env
+
